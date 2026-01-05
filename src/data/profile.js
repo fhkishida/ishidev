@@ -73,7 +73,7 @@ export const profile = {
         {
             title: "Global Registration Platform",
             subtitle: "High-scale backend with GraphQL + Neptune",
-            image: "/images/project-1.jpg",
+            image: "/images/Philip-Morris.jpg",
             tags: ["AWS", "AppSync", "Neptune", "Lambda"],
             description:
                 "Global platform to register and serve user data across multiple countries with strict SLAs.",
@@ -82,7 +82,7 @@ export const profile = {
         {
             title: "YLink — ROI-based Redirection",
             subtitle: "Performance marketing routing engine",
-            image: "/images/project-2.jpg",
+            image: "/images/ym.png",
             tags: ["Laravel", "Golang", "MySQL"],
             description:
                 "Dynamic URL redirection system routing traffic based on ROI performance of destinations.",

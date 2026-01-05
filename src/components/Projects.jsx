@@ -20,11 +20,11 @@ export default function Projects() {
                 href={p.href}
                 className="group rounded-3xl border border-white/10 bg-white/5 overflow-hidden hover:border-white/20 transition"
               >
-                <div className="h-56 overflow-hidden">
+                <div className="h-56 overflow-hidden bg-black/1 flex items-center justify-center p-8">
                   <img
                     src={p.image}
                     alt={p.title}
-                    className="h-full w-full object-cover group-hover:scale-[1.03] transition duration-300"
+                    className="max-h-full max-w-full object-contain brightness-90 group-hover:brightness-100 group-hover:scale-[1.05] transition duration-300"
                   />
                 </div>
 
