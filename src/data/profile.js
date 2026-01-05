@@ -11,11 +11,11 @@ export const profile = {
         "Strong background in cloud-native architectures, serverless systems, and graph-based data modeling using AWS, GraphQL, and Amazon Neptune.",
     ],
 
-    topSkills: ["Go", "AWS", "Neptune"],
+    topSkills: ["Go", "AWS", "Neptune", "GraphQL", "Laravel", "React"],
 
     stats: [
         { label: "Global scale", value: "Millions of users" },
-        { label: "SLA", value: "15 min" },
+        { label: "SLA", value: "10 min" },
         { label: "APIs", value: "<300ms" },
     ],
 
